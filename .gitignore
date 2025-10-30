@@ -2,7 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+__pycache__/
+*.pyc
+backend/dataset_processed.txt
+backend/ga_result.txt
+*.png
 # Virtual environment
 venv/
 .env/
